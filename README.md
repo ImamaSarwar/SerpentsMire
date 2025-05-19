@@ -17,3 +17,4 @@ Hidden easter eggs unlock once a specific score threshold is reached. Collecting
 The game ends if the snake:
 - Hits the screen boundary
 - Collides with its own body
+![Game UI] 
