@@ -18,3 +18,5 @@ The game ends if the snake:
 - Hits the screen boundary
 - Collides with its own body
 ![Game UI](https://github.com/ImamaSarwar/SerpentsMire/raw/d5440c65a2bdd4dab347bdd666050399dec57f68/GameUI.png)
+# Getting Started
+Since SFML was used for graphics and audio, the SFML library is required to run the game. [installing SFML for Visual Studio](https://www.youtube.com/watch?v=lFzpkvrscs4)
