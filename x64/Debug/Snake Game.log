@@ -1,0 +1,24 @@
+﻿  Snake.cpp
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Food.h(52,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Snake.cpp')
+  
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Food.h(52,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Snake.cpp')
+  
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Food.h(63,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Snake.cpp')
+  
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Food.h(63,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Snake.cpp')
+  
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\SnakeSegment.h(26,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Snake.cpp')
+  
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\SnakeSegment.h(26,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Snake.cpp')
+  
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Snake.cpp(244,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Snake.cpp(244,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Snake.cpp(136,9): warning C4101: 'speed': unreferenced local variable
+C:\Users\Waqas\source\repos\Snake Game\Snake Game\Snake.cpp(335,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake Game.vcxproj -> C:\Users\Waqas\source\repos\Snake Game\x64\Debug\Snake Game.exe
